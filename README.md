@@ -1,16 +1,32 @@
-## Hi there 👋
+## Alex Chudnovsky's GitHub Portfolio
 
-<!--
-**AlexChudnovsky19/AlexChudnovsky19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Alex Chudnovsky, a fourth-year Computer Science student at the University of Haifa. My work focuses on areas like Deep Learning, Computer Vision, Machine Learning.
 
-Here are some ideas to get you started:
+Feel free to explore my projects, and let’s connect if you’re interested in collaborating or discussingy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming Languages**: Python, C/C++, Javascript
+- **Core Areas**: Deep Learning, Machine Learning, Computer Vision, Image Preprocessing
+
+## 📚 Projects
+
+- 🏋️ **Real-Time Injury Prevention System Using Computer Vision and Deep Learning**  
+  A system designed to monitor and analyze body posture during exercises in real-time to prevent injuries.
+  
+- 🤖 **Lyrics Generation with GPT-2 Fine-Tuning**  
+  A natural language generation project focused on creating lyrics based on input data by fine-tuning GPT-2.
+
+- 📈 **Disease Prediction System**  
+  A machine learning model to predict diseases based on input symptoms, using various algorithms for accurate results.
+
+- 🔍 **3D Reconstruction using Epipolar Geometry**  
+  A Computer Vision project that performs 3D reconstruction from stereo images.
+
+- 🔺 **Triangle Detection in Images**  
+  Detects triangles in images using Hough Transform and other image processing techniques.
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/alex-chudnovsky-25033726b)
+- 📫 Email: alexchudn81@gmail.com
+
+
