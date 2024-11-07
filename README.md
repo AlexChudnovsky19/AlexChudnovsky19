@@ -6,7 +6,7 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 ## 🛠 Skills
 - **Programming Languages**: Python, C/C++, Javascript
-- **Core Areas**: Deep Learning, Machine Learning, Computer Vision, Image Preprocessing
+- **Core Areas**: Software Engineering, Deep Learning, Machine Learning, Computer Vision
 
 ## 📚 Projects
 
