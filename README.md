@@ -1,12 +1,12 @@
 ## Alex Chudnovsky's GitHub Portfolio
 
-Welcome to my GitHub profile! I'm Alex Chudnovsky, a fourth-year Computer Science student at the University of Haifa. My work focuses on areas like Deep Learning, Computer Vision, Machine Learning.
+Welcome to my GitHub profile! I'm Alex Chudnovsky, a fourth-year Computer Science student at the University of Haifa. My work focuses on areas like Software Engineering, Deep Learning, Computer Vision, Machine Learning.
 
 Feel free to explore my projects, and let’s connect if you’re interested in collaborating or discussingy!
 
 ## 🛠 Skills
 - **Programming Languages**: Python, C/C++, Javascript
-- **Core Areas**: Software Engineering, Deep Learning, Machine Learning, Computer Vision
+- **Technologies**: Linux, Git, PyTorch, OpenCV, TensorFlow
 
 ## 📚 Projects
 
