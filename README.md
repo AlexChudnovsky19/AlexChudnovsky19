@@ -10,7 +10,7 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 ## 📚 Projects
 
-- 🐦 **BirdRepel: Automated Bird Deterrent System **
+- 🐦 **BirdRepel: Automated Bird Deterrent System**
    Utilizes YOLOv11 and Raspberry Pi to detect and repel problematic bird species in real-time through automated water gun activation.
 
 - 🏋️ **Real-Time Injury Prevention System Using Computer Vision and Deep Learning**  
