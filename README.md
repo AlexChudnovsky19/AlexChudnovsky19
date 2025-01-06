@@ -10,8 +10,8 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 ## 📚 Projects
 
-- 🐦 **BirdRepel: Automated Bird Deterrent System** 
-  Utilizes YOLOv11 and Raspberry Pi to detect and repel problematic bird species in real-time through automated water gun activation.
+- 🐦 **BirdRepel: Automated Bird Deterrent System**  
+  Utilizes YOLOv11 and Raspberry Pi to detect and repel three problematic bird species in real-time through automated water gun activation.
 
 - 🏋️ **Real-Time Injury Prevention System Using Computer Vision and Deep Learning**  
   A system designed to monitor and analyze body posture during exercises in real-time to prevent injuries.
@@ -27,7 +27,7 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 - 🔺 **Triangle Detection in Images**  
   Detects triangles in images using Hough Transform and other image processing techniques.
-
+  
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alex-chudnovsky-25033726b)
 - 📫 Email: alexchudn81@gmail.com
