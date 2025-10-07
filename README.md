@@ -10,8 +10,8 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 ## 📚 Projects
 
-- 🐦 **BirdRepel: Automated Bird Deterrent System**  
-  Utilizes YOLOv11 and Raspberry Pi to detect and repel three problematic bird species in real-time through automated water gun activation.
+- 🌱 **PlantGuard: Automated Crop Protection System**  
+  Utilizes YOLOv11 and Raspberry Pi to protect ballcony plants in real-time through automated water gun activation.
 
 - 🏋️ **Real-Time Injury Prevention System Using Computer Vision and Deep Learning**  
   A system designed to monitor and analyze body posture during exercises in real-time to prevent injuries.
